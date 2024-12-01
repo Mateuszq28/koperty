@@ -48,3 +48,26 @@
   <text x="25" y="58" style="fill:green;font-size:10px;">b/2</math></text>
   Sorry, your browser does not support inline SVG.
 </svg>
+
+- x - dłuższa krawędź kartki (poziomo)
+- y - krótsza krawędź kartki (pionowo)
+
+$$\left\{\begin{array}{rcl}
+x&=&6a+b\\
+y&=&4a+\frac{1}{2}b\\
+\end{array} \right.$$
+
+$$
+0 \quad < \quad b \quad \leqslant \quad 2a \quad < \quad y \quad < \quad x
+$$
+
+
+$$
+\left\{\begin{array}{rcl}
+0 &<& b &\leqslant& 2a \\[1.5ex]
+\frac{1}{8}x &\leqslant& a &\leqslant& \frac{1}{6}x \\[1.5ex]
+\frac{1}{5}y &\leqslant& a &\leqslant& \frac{1}{4}y
+\end{array} \right.
+$$
+
+
