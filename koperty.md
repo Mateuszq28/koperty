@@ -188,27 +188,22 @@ a &=& \frac{2}{6+ \frac{1}{2} }x \\[1ex]
 \end{array} \right.\\[3ex]
 
 \left\{\begin{array}{rcl}
-c &=& x (\frac{1}{6} - \frac{1}{9+\frac{3}{2}}) \\[1ex]
+c &=& x (\frac{1}{6} - \frac{1}{18+\frac{3}{2}}) \\[1ex]
 a &=& \frac{2}{ \frac{13}{2} }x \\[1ex]
 \end{array} \right.\\[3ex]
 
 \left\{\begin{array}{rcl}
-c &=& x (\frac{1}{6} - \frac{1}{9+\frac{3}{2}}) \\[1ex]
+c &=& x (\frac{1}{6} - \frac{2}{36+3}) \\[1ex]
 a &=& \frac{4}{13}x \\[1ex]
 \end{array} \right.\\[3ex]
 
 \left\{\begin{array}{rcl}
-c &=& x (\frac{1}{6} - \frac{1}{\frac{18+3}{2}}) \\[1ex]
+c &=& x (\frac{1}{6} - \frac{2}{39}) \\[1ex]
 a &=& \frac{4}{13}x \\[1ex]
 \end{array} \right.\\[3ex]
 
 \left\{\begin{array}{rcl}
-c &=& x (\frac{1}{6} - \frac{2}{21}) \\[1ex]
-a &=& \frac{4}{13}x \\[1ex]
-\end{array} \right.\\[3ex]
-
-\left\{\begin{array}{rcl}
-c &=& x (\frac{1}{6} - \frac{2}{21}) \\[1ex]
+c &=& x (\frac{1}{6} - \frac{2}{39}) \\[1ex]
 a &=& \frac{4}{13}x \\[1ex]
 \end{array} \right.\\[3ex]
 
