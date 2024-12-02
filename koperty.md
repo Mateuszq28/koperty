@@ -70,14 +70,14 @@ $$
 \end{array} \right.
 $$
 
-### Koperta z maksymalną klapą
+### a) Koperta z maksymalną klapą
 $$
 b=2a\\
 x=8a\\
 y=5a\\
 $$
 
-### Koperta z klapą do połowy
+### b) Koperta z klapą do połowy
 $$
 b=a\\
 x=7a\\
@@ -85,7 +85,7 @@ y=4.5a\\
 $$
 
 
-### Koperta z kwadratowej kartki, x=y
+### c) Koperta z kwadratowej kartki, x=y
 $$
 x=y \\[1ex] % odstęp 2ex między liniami
 c \lt a \\[2ex] % odstęp 2ex między liniami
