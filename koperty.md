@@ -207,55 +207,20 @@ c &=& x (\frac{1}{6} - \frac{2}{39}) \\[1ex]
 a &=& \frac{4}{13}x \\[1ex]
 \end{array} \right.\\[3ex]
 
-% \left\{\begin{array}{rcl}
-% b &=& x - 6c \\[1ex]
-% x &=& 2a + b+2c - \frac{b}{2} \\[1ex]
-% \end{array} \right.\\[3ex]
+\left\{\begin{array}{rcl}
+c &=& x (\frac{13}{78} - \frac{4}{78}) \\[1ex]
+a &=& \frac{4}{13}x \\[1ex]
+\end{array} \right.\\[3ex]
 
-% \left\{\begin{array}{rcl}
-% b &=& x - 6c \\[1ex]
-% x &=& 2a + \frac{b}{2} + 2c \\[1ex]
-% \end{array} \right.\\[3ex]
+\left\{\begin{array}{rcl}
+c &=& \frac{9}{78}x \\[1ex]
+a &=& \frac{4}{13}x \\[1ex]
+\end{array} \right.\\[3ex]
 
-% \left\{\begin{array}{rcl}
-% b &=& x - 6c \\[1ex]
-% x &=& 2a + \frac{1}{2} \cdot (x - 6c) + 2c \\[1ex]
-% \end{array} \right.\\[3ex]
-
-% \left\{\begin{array}{rcl}
-% b &=& x - 6c \\[1ex]
-% x &=& 2a + \frac{1}{2}x - 3c + 2c \\[1ex]
-% \end{array} \right.\\[3ex]
-
-% \left\{\begin{array}{rcl}
-% b &=& x - 6c \\[1ex]
-% \frac{1}{2}x &=& 2a - c \\[1ex]
-% \end{array} \right.\\[3ex]
-
-% \left\{\begin{array}{rcl}
-% b &=& x - 6c \\[1ex]
-% c &=& 2a - \frac{1}{2}x \\[1ex]
-% \end{array} \right.\\[3ex]
-
-% \left\{\begin{array}{rcl}
-% b &=& x - 6(2a - \frac{1}{2}x) \\[1ex]
-% c &=& 2a - \frac{1}{2}x \\[1ex]
-% \end{array} \right.\\[3ex]
-
-% \left\{\begin{array}{rcl}
-% b &=& x -12a + 3x \\[1ex]
-% c &=& 2a - \frac{1}{2}x \\[1ex]
-% \end{array} \right.\\[3ex]
-
-% \left\{\begin{array}{rcl}
-% 12a &=& 4x - b \\[1ex]
-% c &=& 2a - \frac{1}{2}x \\[1ex]
-% \end{array} \right.\\[3ex]
-
-% \left\{\begin{array}{rcl}
-% a &=& \frac{4x - b}{12} \\[1ex]
-% c &=& 2a - \frac{1}{2}x \\[1ex]
-% \end{array} \right.\\[3ex]
+\left\{\begin{array}{rcl}
+c &=& \frac{3}{26}x \\[1ex]
+a &=& \frac{4}{13}x \\[1ex]
+\end{array} \right.\\[3ex]
 
 $$
 
